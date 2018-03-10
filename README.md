@@ -558,7 +558,7 @@ console.log(rinkaku.ghoul)
 
 ## Authors
 
-**Massimo Piedimonte** created Design Patterns by Example
+**Massimo Piedimonte** _(AKA. Maz)_
 
 ## Credits
 
